@@ -56,7 +56,7 @@ bash
 
 Copy code
 
-git clone https://github.com/parv-meht08/Project/tree/main/React%20Projects/Twitter%20Clone
+git clone https://github.com/parv-meht08/Twitter-Clone.git
 
 Navigate to the project directory
 
